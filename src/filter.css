@@ -1,0 +1,55 @@
+.main div{
+    background-color:rgb(89, 209, 209);
+    width:400px;
+    height:500px;
+    padding: 40px;
+
+
+}
+.main{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    grid-row-gap: 10px;
+}
+#filter{
+display: flex;
+padding: 30px opx;
+text-align: center;
+}
+#filter{
+letter-spacing: 3px;
+display:inline-block;
+
+padding-bottom: 10px;
+text-align: center;
+}
+#filter{
+width: 300px;
+padding:5px 16px;
+background: transparent;
+border:3px solid #000;
+font-size: 20px;
+text-transform: capitalize;
+letter-spacing: 3px;
+outline: none;
+margin-left: 500px;
+} 
+#filter{
+color:green;
+font-weight: 500;
+} 
+#cart{
+margin-left: 1000px;
+margin-top:5px;
+font-size: 30px;
+color: red;
+} 
+.select{
+background-color:pink;
+overflow-y: scroll;
+position: absolute;
+height:500px;
+width:800px;
+margin-left: 400px;
+
+} 
